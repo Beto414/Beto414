@@ -46,7 +46,7 @@ public class Profissional
 
 ### 🎓 Formação
 
-- **Pós-graduação em Engenharia de Software**, PUC: início previsto para novembro de 2026.
+- **Pós-graduação em Engenharia de Software**, PUC: início previsto para o próximo semestre.
 - **Tecnólogo em Jogos Digitais**, Faculdade Estácio: modelagem 3D, game engines e design.
 - **Ensino Médio Técnico**, Colégio e Faculdade COTEMIG (2020 – 2022): base sólida em HTML, CSS, PHP, C# e SQL, concluído com excelente desempenho acadêmico.
 - **Cursos complementares (Udemy):** Blender, Unreal Engine, Canva e CapCut.
@@ -120,7 +120,7 @@ Aplicação completa construída com o **MERN Stack** para gerenciar todo o cicl
 
 - 📈 **Consolidar minha carreira na área de Dados**, aprofundando BI, ETL e automação.
 - 🧩 Unir a **experiência em desenvolvimento full-stack e QA** com uma visão analítica orientada a decisão.
-- 🏗️ Aprofundar **Engenharia de Software** na pós-graduação, a partir de novembro de 2026.
+- 🏗️ Aprofundar **Engenharia de Software** na pós-graduação, a partir do próximo semestre.
 - 🌱 Seguir evoluindo tecnicamente, aprendendo novas ferramentas e contribuindo para o crescimento das equipes e empresas onde atuo.
 
 ---
