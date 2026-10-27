@@ -20,16 +20,16 @@
 
 Sou **Analista de QA na Palamedes**, com bagagem sólida em **desenvolvimento full-stack (C#, .NET e React Native)**, construída como Analista de Sistemas na LEO Tecnologia e Inovação.
 
-Minha trajetória em tecnologia começou em 2020, como estagiário em Java, e passou por responsabilidades de alto impacto, como a **publicação dos dados abertos do município de Belo Horizonte** e o desenvolvimento de **dashboards executivos em Power BI** para a alta gestão da Prefeitura. Hoje, meu foco é **consolidar minha carreira na área de Dados**, unindo a experiência prática em BI, ETL e automação a uma visão interdisciplinar de desenvolvimento de software.
+Minha trajetória em tecnologia começou em 2020, como estagiário em Java, e passou por responsabilidades de alto impacto, como a **publicação dos dados abertos do município de Belo Horizonte** e o desenvolvimento de **dashboards executivos em Power BI** para a alta gestão da Prefeitura. Hoje, meu foco é **consolidar minha carreira na área de Desenvolvimento de Software**, unindo a experiência prática em BI, ETL e automação a uma visão interdisciplinar de desenvolvimento de software.
 
 ```csharp
 public class Profissional
 {
     public string Nome    => "Antonio Roberto Garcia";
     public string Atuação => "Analista de QA · Full Stack (C#, .NET & React Native)";
-    public string[] Foco  => ["Dados", "BI", "ETL", "Automação"];
-    public string[] Idiomas => ["Português (nativo)", "Inglês (avançado)"];
-    public string Mentalidade => "Evolução técnica contínua";
+    public string[] Foco  => ["Dados", "BI", "ETL", "Automação", "Programação (C#, PHP, REACT)"];
+    public string[] Idiomas => ["Português (nativo)", "Inglês (avançado)", "Norueguês (Intermediário)"];
+    public string Mentalidade => "Evolução técnica contínua na área de Desenvolvimento de Software";
 }
 ```
 
@@ -47,9 +47,9 @@ public class Profissional
 ### 🎓 Formação
 
 - **Pós-graduação em Engenharia de Software**, PUC: início previsto para o próximo semestre.
-- **Tecnólogo em Jogos Digitais**, Faculdade Estácio: modelagem 3D, game engines e design.
+- **Tecnólogo em Jogos Digitais**, Faculdade Estácio: modelagem 3D, game engines, design e aprendizado de linguagens de programação já vistas anteriormente (C#).
 - **Ensino Médio Técnico**, Colégio e Faculdade COTEMIG (2020 – 2022): base sólida em HTML, CSS, PHP, C# e SQL, concluído com excelente desempenho acadêmico.
-- **Cursos complementares (Udemy):** Blender, Unreal Engine, Canva e CapCut.
+- **Cursos complementares (Udemy):** Blender, Unreal Engine, Canva, CapCut, Inglês, JAVA, PBI etc...
 
 ---
 
@@ -118,7 +118,7 @@ Aplicação completa construída com o **MERN Stack** para gerenciar todo o cicl
 
 ## 🔭 Foco atual
 
-- 📈 **Consolidar minha carreira na área de Dados**, aprofundando BI, ETL e automação.
+- 📈 **Consolidar minha carreira na área de Desenvolvimento de Software**, aprofundando C#, PHP e aprendendo linguagens que estão em alta no mercado.
 - 🧩 Unir a **experiência em desenvolvimento full-stack e QA** com uma visão analítica orientada a decisão.
 - 🏗️ Aprofundar **Engenharia de Software** na pós-graduação, a partir do próximo semestre.
 - 🌱 Seguir evoluindo tecnicamente, aprendendo novas ferramentas e contribuindo para o crescimento das equipes e empresas onde atuo.
