@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0A2540,50:1B6CA8,100:00B4D8&text=Antonio%20Roberto%20Garcia&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Analista%20de%20Sistemas%20%7C%20Full%20Stack%20%7C%20QA%20%7C%20Dados%20%26%20BI&descSize=18&descAlignY=56&animation=fadeIn" />
+<img width="100%" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0A2540,50:1B6CA8,100:00B4D8&text=Antonio%20Roberto%20Garcia&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Analista%20de%20Sistemas%20%7C%20Full%20Stack%20%7C%20QA%20%7C%20Dados%20e%20BI&descSize=18&descAlignY=56&animation=fadeIn" />
 
 <a href="https://github.com/Beto414">
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=2F9BDB&center=true&vCenter=true&width=720&height=40&lines=Analista+de+Sistemas+na+LEO+Tecnologia+e+Inova%C3%A7%C3%A3o;Full+Stack%3A+.NET+%26+React+Native;Dados%2C+BI%2C+ETL+e+Automa%C3%A7%C3%A3o;Transformando+dados+em+decis%C3%B5es" />
@@ -28,7 +28,7 @@ public class Profissional
     public string Nome    => "Antonio Roberto Garcia";
     public string Atuação => "Analista de Sistemas · Full Stack (.NET & React Native) · QA";
     public string[] Foco  => ["Dados", "BI", "ETL", "Automação"];
-    public string[] Idiomas => ["Português (nativo)", "Inglês (avançado)", "Norueguês (Intermediário)"];
+    public string[] Idiomas => ["Português (nativo)", "Inglês (avançado)"];
     public string Mentalidade => "Evolução técnica contínua";
 }
 ```
