@@ -46,7 +46,7 @@ public class Profissional
 
 ### 🎓 Formação
 
-- **Pós-graduação em Engenharia de Software**, PUC: início previsto para o próximo semestre.
+- **Pós-graduação em Engenharia de Software**, PUC: início previsto para novembro de 2026.
 - **Tecnólogo em Jogos Digitais**, Faculdade Estácio: modelagem 3D, game engines e design.
 - **Ensino Médio Técnico**, Colégio e Faculdade COTEMIG (2020 – 2022): base sólida em HTML, CSS, PHP, C# e SQL, concluído com excelente desempenho acadêmico.
 - **Cursos complementares (Udemy):** Blender, Unreal Engine, Canva e CapCut.
@@ -87,7 +87,7 @@ public class Profissional
 
 | Categoria | Stack |
 |:--|:--|
-| 💻 **Desenvolvimento** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 💻 **Desenvolvimento** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | 📱 **Mobile** | ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
 | 📊 **Dados & BI** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-1B6CA8?style=flat-square) |
 | 🤖 **Automação** | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
@@ -97,23 +97,31 @@ public class Profissional
 
 ---
 
+## 🚀 Projeto em destaque
+
+### 💼 [Jobify](https://github.com/Beto414/jobify): rastreador de vagas Full-Stack
+
+Aplicação completa construída com o **MERN Stack** para gerenciar todo o ciclo de candidaturas de emprego, do envio inicial às entrevistas e decisões finais, em uma interface moderna e reativa.
+
+- 🔐 **Autenticação segura:** senhas com Bcrypt e tokens JWT em cookies HTTP-only, reforçada por Helmet, rate limiting e sanitização de requisições.
+- 📊 **Dashboard interativo:** estatísticas de candidaturas (pendentes, entrevistas, recusadas) e gráfico de atividades mensais.
+- 🗂️ **CRUD de vagas** com busca por cargo ou empresa, filtros por status e tipo, e ordenação dos resultados.
+- 👤 **Perfil personalizável** com upload de foto de perfil armazenada na nuvem (Cloudinary).
+- 🛡️ **Painel de administrador** em rota protegida, com estatísticas gerais da aplicação.
+- 🌗 **Tema claro/escuro** e **design responsivo** para mobile e desktop.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white) ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+<a href="https://github.com/Beto414/jobify"><img alt="Ver repositório" src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-1B6CA8?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+---
+
 ## 🔭 Foco atual
 
 - 📈 **Consolidar minha carreira na área de Dados**, aprofundando BI, ETL e automação.
 - 🧩 Unir a **experiência em desenvolvimento full-stack e QA** com uma visão analítica orientada a decisão.
 - 🏗️ Aprofundar **Engenharia de Software** na pós-graduação, a partir de novembro de 2026.
 - 🌱 Seguir evoluindo tecnicamente, aprendendo novas ferramentas e contribuindo para o crescimento das equipes e empresas onde atuo.
-
-<!--
-  PROJETOS EM DESTAQUE (opcional)
-  Para exibir cards de repositórios, remova este comentário e troque NOME-DO-REPO.
-
-  ## 🚀 Projetos em destaque
-
-  <a href="https://github.com/Beto414/NOME-DO-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beto414&repo=NOME-DO-REPO&theme=tokyonight&hide_border=true" />
-  </a>
--->
 
 ---
 
