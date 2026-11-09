@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0A2540,50:1B6CA8,100:00B4D8&text=Antonio%20Roberto%20Garcia&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Analista%20de%20QA%20%7C%20Full%20Stack%20%7C%20Dados%20e%20BI&descSize=18&descAlignY=56&animation=fadeIn" />
+<img width="100%" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0A2540,50:1B6CA8,100:00B4D8&text=Antonio%20Roberto%20Garcia&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Desenvolvedor%20de%20Software%20%7C%20Full%20Stack%20com%20foco%20em%20qualidade&descSize=18&descAlignY=56&animation=fadeIn" />
 
 <a href="https://github.com/Beto414">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=2F9BDB&center=true&vCenter=true&width=720&height=40&lines=Analista+de+QA+na+Palamedes;Full+Stack%3A+.NET+%26+React+Native;Dados%2C+BI%2C+ETL+e+Automa%C3%A7%C3%A3o;Transformando+dados+em+decis%C3%B5es" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=2F9BDB&center=true&vCenter=true&width=720&height=40&lines=Desenvolvedor+de+Software+Full+Stack;C%23%2C+.NET%2C+React%2C+React+Native+e+Node.js;QA+e+foco+em+qualidade+de+software;Dados%2C+ETL+e+BI+como+diferencial" />
 </a>
 
 <br/>
@@ -18,18 +18,21 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Analista de QA na Palamedes**, com bagagem sólida em **desenvolvimento full-stack (C#, .NET e React Native)**, construída como Analista de Sistemas na LEO Tecnologia e Inovação.
+Sou **Desenvolvedor de Software full stack** (**C#, .NET, React e React Native**), com vivência em **qualidade de software (QA)** e em **dados**. Hoje atuo como **Analista de QA na Palamedes**, e essa vivência me deixa mais atento a testes, casos de borda e ao comportamento do software em produção.
 
-Minha trajetória em tecnologia começou em 2020, como estagiário em Java, e passou por responsabilidades de alto impacto, como a **publicação dos dados abertos do município de Belo Horizonte** e o desenvolvimento de **dashboards executivos em Power BI** para a alta gestão da Prefeitura. Hoje, meu foco é **consolidar minha carreira na área de Desenvolvimento de Software**, unindo a experiência prática em BI, ETL e automação a uma visão interdisciplinar de desenvolvimento de software.
+Comecei em 2020, como estagiário em Java. Na **Prodabel**, empresa de tecnologia da Prefeitura de Belo Horizonte, fui responsável pela **publicação dos dados abertos do município** e por **dashboards em Power BI e Microsoft Fabric** com indicadores financeiros para a alta gestão. Na **LEO Tecnologia e Inovação**, como Analista de Sistemas Júnior, atuei em desenvolvimento full stack com **C#, .NET e React Native** e também em QA.
+
+Meu foco é **consolidar a carreira em Desenvolvimento de Software**. Em 2027, começo a pós-graduação em Engenharia de Software na PUC.
 
 ```csharp
 public class Profissional
 {
-    public string Nome    => "Antonio Roberto Garcia";
-    public string Atuação => "Analista de QA · Full Stack (C#, .NET & React Native)";
-    public string[] Foco  => ["Dados", "BI", "ETL", "Automação", "Programação (C#, PHP, REACT)"];
-    public string[] Idiomas => ["Português (nativo)", "Inglês (avançado)", "Norueguês (Intermediário)"];
-    public string Mentalidade => "Evolução técnica contínua na área de Desenvolvimento de Software";
+    public string Nome        => "Antonio Roberto Garcia";
+    public string Atuação     => "Desenvolvedor de Software · Full Stack";
+    public string[] Stack     => ["C#", ".NET", "React", "React Native", "Node.js", "SQL"];
+    public string Diferencial => "Qualidade de software (QA), dados e ETL";
+    public string[] Idiomas   => ["Português (nativo)", "Inglês (avançado)", "Norueguês (intermediário)"];
+    public string Objetivo    => "Consolidar a carreira em Desenvolvimento de Software";
 }
 ```
 
@@ -39,17 +42,17 @@ public class Profissional
 
 | Período | Cargo e empresa | Destaques |
 |:--|:--|:--|
-| **Set/2026 – atual** | **Analista de QA**<br/>Palamedes | Atuação em **Garantia de Qualidade (QA)** de software, com a bagagem técnica de quem já desenvolveu em produção. |
-| **Out/2025 – Set/2026** | **Analista de Sistemas Júnior**<br/>LEO Tecnologia e Inovação | Desenvolvimento web com **C#** e de aplicações com **React Native** e **.NET**, com atuação paralela como **analista de QA**. |
-| **Jun/2023 – Jun/2025** | **Estagiário**<br/>Prodabel · Prefeitura de Belo Horizonte | Equipe multidisciplinar com **SCRUM**. Responsável pela **disponibilização e atualização dos dados abertos** do município e pelo desenvolvimento de **dashboards em Power BI** com indicadores financeiros para a alta gestão. Aprofundamento em **ETL, SQL, Excel e automação com PowerShell**. |
+| **Set/2026 – atual** | **Analista de QA**<br/>Palamedes | Controle de qualidade de software e gestão do quadro de issues no GitHub: criação, organização e distribuição das tarefas do time. |
+| **Out/2025 – Set/2026** | **Analista de Sistemas Júnior**<br/>LEO Tecnologia e Inovação | Desenvolvimento web com **C#** e de aplicações com **React Native** e **.NET**, com atuação paralela em **QA**. |
+| **Jun/2023 – Jun/2025** | **Estagiário**<br/>Prodabel · Prefeitura de Belo Horizonte | Equipe multidisciplinar com **Scrum**. Responsável pela **publicação e atualização dos dados abertos** do município e pelo desenvolvimento de **dashboards em Power BI e Microsoft Fabric** com indicadores financeiros para a alta gestão. Atuação com **ETL, SQL, Excel** e automação de processos com **PowerShell**. |
 | **Fev/2020 – Out/2020** | **Programador (estágio)**<br/>Planear Sistemas | Primeiro contato profissional com programação, em **Java**. |
 
 ### 🎓 Formação
 
-- **Pós-graduação em Engenharia de Software**, PUC: início previsto para o próximo semestre.
-- **Tecnólogo em Jogos Digitais**, Faculdade Estácio: modelagem 3D, game engines, design e aprendizado de linguagens de programação já vistas anteriormente (C#).
-- **Ensino Médio Técnico**, Colégio e Faculdade COTEMIG (2020 – 2022): base sólida em HTML, CSS, PHP, C# e SQL, concluído com excelente desempenho acadêmico.
-- **Cursos complementares (Udemy):** Blender, Unreal Engine, Canva, CapCut, Inglês, JAVA, PBI etc...
+- **Pós-graduação em Engenharia de Software**, PUC: início previsto para o 1º semestre de 2027.
+- **Tecnólogo em Jogos Digitais**, Estácio: desenvolvimento de jogos, com programação em C++ e C#, Unity e Unreal Engine.
+- **Ensino Médio Técnico**, COTEMIG (2020 – 2022): HTML, CSS, PHP, C# e SQL.
+- **Certificados e cursos:** Udemy (MERN Stack: MongoDB, Express, React e Node; Power BI + SQL Server; Power BI: The Ultimate Orientation) e cursos de Java, Python e C# .NET (Udemy e Alura).
 
 ---
 
@@ -58,25 +61,26 @@ public class Profissional
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>📊 Dados &amp; BI</h4>
-      Dashboards executivos em Power BI<br/>
-      Pipelines de ETL e consultas SQL<br/>
-      Publicação de dados abertos<br/>
-      Automação de rotinas com PowerShell
-    </td>
-    <td width="33%" valign="top">
       <h4>💻 Desenvolvimento</h4>
-      Desenvolvimento web com C# e .NET<br/>
-      Aplicações mobile com React Native<br/>
-      Experiência com Node.js<br/>
-      Base sólida em Java, PHP, HTML e CSS
+      Aplicações web com C# e .NET<br/>
+      Aplicativos mobile com React Native<br/>
+      Aplicações full stack com Node.js, Express, React e MongoDB<br/>
+      Sites, landing pages e lojas virtuais como freelancer<br/>
+      Fundamentos em Java, PHP, HTML e CSS
     </td>
     <td width="33%" valign="top">
       <h4>✅ Qualidade &amp; Processos</h4>
-      Atuação como Analista de QA<br/>
-      Trabalho em equipes ágeis (SCRUM)<br/>
-      Visão interdisciplinar, do dado ao produto<br/>
+      Controle de qualidade de software (QA)<br/>
+      Gestão de issues e do quadro do time no GitHub<br/>
+      Trabalho em equipes ágeis (Scrum)<br/>
       Comunicação técnica em inglês avançado
+    </td>
+    <td width="33%" valign="top">
+      <h4>📊 Dados &amp; BI</h4>
+      Dashboards executivos em Power BI e Microsoft Fabric<br/>
+      Pipelines de ETL e consultas SQL<br/>
+      Publicação de dados abertos<br/>
+      Automação de rotinas com PowerShell
     </td>
   </tr>
 </table>
@@ -87,60 +91,27 @@ public class Profissional
 
 | Categoria | Stack |
 |:--|:--|
-| 💻 **Desenvolvimento** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 💻 **Desenvolvimento** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | 📱 **Mobile** | ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-| 📊 **Dados & BI** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-1B6CA8?style=flat-square) |
+| 📊 **Dados & BI** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-117865?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-1B6CA8?style=flat-square) |
 | 🤖 **Automação** | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
 | ✅ **Qualidade & Gestão** | ![QA](https://img.shields.io/badge/QA-0A2540?style=flat-square) ![SCRUM](https://img.shields.io/badge/SCRUM-00B4D8?style=flat-square) |
 | 🔧 **Versionamento** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| 🎨 **Criação & 3D** | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white) |
-
----
-
-## 🚀 Projeto em destaque
-
-### 💼 [Jobify](https://github.com/Beto414/jobify): rastreador de vagas Full-Stack
-
-Aplicação completa construída com o **MERN Stack** para gerenciar todo o ciclo de candidaturas de emprego, do envio inicial às entrevistas e decisões finais, em uma interface moderna e reativa.
-
-- 🔐 **Autenticação segura:** senhas com Bcrypt e tokens JWT em cookies HTTP-only, reforçada por Helmet, rate limiting e sanitização de requisições.
-- 📊 **Dashboard interativo:** estatísticas de candidaturas (pendentes, entrevistas, recusadas) e gráfico de atividades mensais.
-- 🗂️ **CRUD de vagas** com busca por cargo ou empresa, filtros por status e tipo, e ordenação dos resultados.
-- 👤 **Perfil personalizável** com upload de foto de perfil armazenada na nuvem (Cloudinary).
-- 🛡️ **Painel de administrador** em rota protegida, com estatísticas gerais da aplicação.
-- 🌗 **Tema claro/escuro** e **design responsivo** para mobile e desktop.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white) ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-
-<a href="https://github.com/Beto414/jobify"><img alt="Ver repositório" src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-1B6CA8?style=for-the-badge&logo=github&logoColor=white" /></a>
+| 🧱 **Fundamentos** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
 ---
 
 ## 🔭 Foco atual
 
-- 📈 **Consolidar minha carreira na área de Desenvolvimento de Software**, aprofundando C#, PHP e aprendendo linguagens que estão em alta no mercado.
-- 🧩 Unir a **experiência em desenvolvimento full-stack e QA** com uma visão analítica orientada a decisão.
-- 🏗️ Aprofundar **Engenharia de Software** na pós-graduação, a partir do próximo semestre.
-- 🌱 Seguir evoluindo tecnicamente, aprendendo novas ferramentas e contribuindo para o crescimento das equipes e empresas onde atuo.
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Beto414&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" />
-<img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beto414&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&locale=pt-br" />
-
-<img alt="Sequência de contribuições" src="https://streak-stats.demolab.com/?user=Beto414&theme=tokyonight&hide_border=true&locale=pt_BR" />
-
-</div>
+- 📈 **Consolidar minha carreira em Desenvolvimento de Software**, aprofundando C# e .NET e ampliando a stack back-end com **Java e Spring Boot**.
+- ✅ Unir a **experiência em desenvolvimento e QA** para entregar software com mais qualidade.
+- 🏗️ Iniciar a **pós-graduação em Engenharia de Software** (PUC) no 1º semestre de 2027.
 
 ---
 
 ## 🤝 Vamos conversar?
 
-Estou sempre aberto a novos desafios, projetos e oportunidades de aprendizado, especialmente nas áreas de **Dados, BI e desenvolvimento full-stack**.
+Aberto a oportunidades em **desenvolvimento de software** (full stack e back-end), especialmente em **fintechs e produtos financeiros**. Se quiser trocar uma ideia sobre projetos, qualidade de software ou dados, é só chamar.
 
 <div align="center">
 
